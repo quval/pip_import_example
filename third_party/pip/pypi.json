@@ -1,0 +1,128 @@
+[
+  {
+    "name": "asttokens-2.0.8-py2.py3-none-any.whl",
+    "urls": [
+      "https://files.pythonhosted.org/packages/2d/1b/fdbdf82b86e07ca90985740ac160a1dd4ab09cb81071ec12d71c701e1138/asttokens-2.0.8-py2.py3-none-any.whl"
+    ],
+    "sha256": "e3305297c744ae53ffa032c45dc347286165e4ffce6875dc662b205db0623d86"
+  },
+  {
+    "name": "backcall-0.2.0-py2.py3-none-any.whl",
+    "urls": [
+      "https://files.pythonhosted.org/packages/4c/1c/ff6546b6c12603d8dd1070aa3c3d273ad4c07f5771689a7b69a550e8c951/backcall-0.2.0-py2.py3-none-any.whl"
+    ],
+    "sha256": "fbbce6a29f263178a1f7915c1940bde0ec2b2a967566fe1c65c1dfb7422bd255"
+  },
+  {
+    "name": "decorator-5.1.1-py3-none-any.whl",
+    "urls": [
+      "https://files.pythonhosted.org/packages/d5/50/83c593b07763e1161326b3b8c6686f0f4b0f24d5526546bee538c89837d6/decorator-5.1.1-py3-none-any.whl"
+    ],
+    "sha256": "b8c3f85900b9dc423225913c5aace94729fe1fa9763b38939a95226f02d37186"
+  },
+  {
+    "name": "executing-1.0.0-py2.py3-none-any.whl",
+    "urls": [
+      "https://files.pythonhosted.org/packages/7b/54/66caf1028fd51396996019100225da71c000220dc05bda1fb39adb458f43/executing-1.0.0-py2.py3-none-any.whl"
+    ],
+    "sha256": "550d581b497228b572235e633599133eeee67073c65914ca346100ad56775349"
+  },
+  {
+    "name": "ipython-8.5.0-py3-none-any.whl",
+    "urls": [
+      "https://files.pythonhosted.org/packages/13/0d/ad3266203acb01189588aac9c1fc4dc982b58b0512ddb3cd4bea3cc26e22/ipython-8.5.0-py3-none-any.whl"
+    ],
+    "sha256": "6f090e29ab8ef8643e521763a4f1f39dc3914db643122b1e9d3328ff2e43ada2"
+  },
+  {
+    "name": "jedi-0.18.1-py2.py3-none-any.whl",
+    "urls": [
+      "https://files.pythonhosted.org/packages/b3/0e/836f12ec50075161e365131f13f5758451645af75c2becf61c6351ecec39/jedi-0.18.1-py2.py3-none-any.whl"
+    ],
+    "sha256": "637c9635fcf47945ceb91cd7f320234a7be540ded6f3e99a50cb6febdfd1ba8d"
+  },
+  {
+    "name": "matplotlib_inline-0.1.6-py3-none-any.whl",
+    "urls": [
+      "https://files.pythonhosted.org/packages/f2/51/c34d7a1d528efaae3d8ddb18ef45a41f284eacf9e514523b191b7d0872cc/matplotlib_inline-0.1.6-py3-none-any.whl"
+    ],
+    "sha256": "f1f41aab5328aa5aaea9b16d083b128102f8712542f819fe7e6a420ff581b311"
+  },
+  {
+    "name": "parso-0.8.3-py2.py3-none-any.whl",
+    "urls": [
+      "https://files.pythonhosted.org/packages/05/63/8011bd08a4111858f79d2b09aad86638490d62fbf881c44e434a6dfca87b/parso-0.8.3-py2.py3-none-any.whl"
+    ],
+    "sha256": "c001d4636cd3aecdaf33cbb40aebb59b094be2a74c556778ef5576c175e19e75"
+  },
+  {
+    "name": "pexpect-4.8.0-py2.py3-none-any.whl",
+    "urls": [
+      "https://files.pythonhosted.org/packages/39/7b/88dbb785881c28a102619d46423cb853b46dbccc70d3ac362d99773a78ce/pexpect-4.8.0-py2.py3-none-any.whl"
+    ],
+    "sha256": "0b48a55dcb3c05f3329815901ea4fc1537514d6ba867a152b581d69ae3710937"
+  },
+  {
+    "name": "pickleshare-0.7.5-py2.py3-none-any.whl",
+    "urls": [
+      "https://files.pythonhosted.org/packages/9a/41/220f49aaea88bc6fa6cba8d05ecf24676326156c23b991e80b3f2fc24c77/pickleshare-0.7.5-py2.py3-none-any.whl"
+    ],
+    "sha256": "9649af414d74d4df115d5d718f82acb59c9d418196b7b4290ed47a12ce62df56"
+  },
+  {
+    "name": "prompt_toolkit-3.0.31-py3-none-any.whl",
+    "urls": [
+      "https://files.pythonhosted.org/packages/26/ec/2ebddd1f0584fec4a6d4b5dc57627254070c3db310f00981bc5de03dd5ab/prompt_toolkit-3.0.31-py3-none-any.whl"
+    ],
+    "sha256": "9696f386133df0fc8ca5af4895afe5d78f5fcfe5258111c2a79a1c3e41ffa96d"
+  },
+  {
+    "name": "ptyprocess-0.7.0-py2.py3-none-any.whl",
+    "urls": [
+      "https://files.pythonhosted.org/packages/22/a6/858897256d0deac81a172289110f31629fc4cee19b6f01283303e18c8db3/ptyprocess-0.7.0-py2.py3-none-any.whl"
+    ],
+    "sha256": "4b41f3967fce3af57cc7e94b888626c18bf37a083e3651ca8feeb66d492fef35"
+  },
+  {
+    "name": "pure_eval-0.2.2-py3-none-any.whl",
+    "urls": [
+      "https://files.pythonhosted.org/packages/2b/27/77f9d5684e6bce929f5cfe18d6cfbe5133013c06cb2fbf5933670e60761d/pure_eval-0.2.2-py3-none-any.whl"
+    ],
+    "sha256": "01eaab343580944bc56080ebe0a674b39ec44a945e6d09ba7db3cb8cec289350"
+  },
+  {
+    "name": "Pygments-2.13.0-py3-none-any.whl",
+    "urls": [
+      "https://files.pythonhosted.org/packages/4f/82/672cd382e5b39ab1cd422a672382f08a1fb3d08d9e0c0f3707f33a52063b/Pygments-2.13.0-py3-none-any.whl"
+    ],
+    "sha256": "f643f331ab57ba3c9d89212ee4a2dabc6e94f117cf4eefde99a0574720d14c42"
+  },
+  {
+    "name": "six-1.16.0-py2.py3-none-any.whl",
+    "urls": [
+      "https://files.pythonhosted.org/packages/d9/5a/e7c31adbe875f2abbb91bd84cf2dc52d792b5a01506781dbcf25c91daf11/six-1.16.0-py2.py3-none-any.whl"
+    ],
+    "sha256": "8abb2f1d86890a2dfb989f9a77cfcfd3e47c2a354b01111771326f8aa26e0254"
+  },
+  {
+    "name": "stack_data-0.5.0-py3-none-any.whl",
+    "urls": [
+      "https://files.pythonhosted.org/packages/9d/ad/22b5d86e421b2786aeb166cf51d519ce5a2a8878c7542d3e58e75aac02b5/stack_data-0.5.0-py3-none-any.whl"
+    ],
+    "sha256": "66d2ebd3d7f29047612ead465b6cae5371006a71f45037c7e2507d01367bce3b"
+  },
+  {
+    "name": "traitlets-5.4.0-py3-none-any.whl",
+    "urls": [
+      "https://files.pythonhosted.org/packages/7d/28/8f4757d68ee7c46e0733dda81595f1bd107fda7bc0c6a577912387e87d86/traitlets-5.4.0-py3-none-any.whl"
+    ],
+    "sha256": "93663cc8236093d48150e2af5e2ed30fc7904a11a6195e21bab0408af4e6d6c8"
+  },
+  {
+    "name": "wcwidth-0.2.5-py2.py3-none-any.whl",
+    "urls": [
+      "https://files.pythonhosted.org/packages/59/7c/e39aca596badaf1b78e8f547c807b04dae603a433d3e7a7e04d67f2ef3e5/wcwidth-0.2.5-py2.py3-none-any.whl"
+    ],
+    "sha256": "beb4802a9cebb9144e99086eff703a642a13d6a0052920003a230f3294bbe784"
+  }
+]
